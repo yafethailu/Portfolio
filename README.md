@@ -9,8 +9,8 @@
   - [Video demo](https://youtu.be/KjnQi0JLn8s?si=26kwtI3CYzWU6DZs)
   - C, ARM assembly, Pseudocode
 - <b>Website for the Ethiopian Medical Students Assosiation</b>
-  - [EMSA](https://yafethailu.github.io/EMSAsite/
-) <b>
+  - [EMSA](https://yafethailu.github.io/EMSAsite/)
+  - [Code files](https://github.com/yafethailu/EMSAsite.git)
   - [Video demo of features](https://youtu.be/SJZf9dYf8ag)
   - HTML, CSS, JavScript, React
 - <b>OpenStreetMaps Software Design</b>
