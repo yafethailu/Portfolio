@@ -1,14 +1,30 @@
-<div align="center" style="position: relative; width: 100%;">
-  <!-- Cover Picture -->
-  <img src="deering.jpg" alt="Cover Picture" style="width: 100%; height: auto; border-radius: 15px; filter: brightness(90%);">
-  
-  <!-- Profile Picture overlayed -->
-  <img src="profile.jpg" alt="Profile Picture" style="position: absolute; top: 30px; left: 50%; transform: translateX(-50%); width: 250px; border-radius: 50%; border: 4px solid white;">
+<div align="center">
+  <img src="profile.jpg" alt="Profile Picture" width="280" style="border-radius: 50%; border: 4px solid #0366d6; box-shadow: 0 0 20px rgba(0,0,0,0.1); margin-right: 25px; float: left;"/>
 </div>
 
+<div style="margin-top: 30px;">
+
+# Hello World! 👋 I'm Yafet
+
+<div style="font-size: 1.4em;">
+
+[![Computer Engineering](https://img.shields.io/badge/Major-Computer%20Engineering-purple?style=for-the-badge&logo=arduino)](https://github.com/yafethailu)
+[![ML & Data Science](https://img.shields.io/badge/Minor-ML%20&%20Data%20Science-blue?style=for-the-badge&logo=python)](https://www.linkedin.com/in/yafet-hailu-a8b854205)
+[![Northwestern](https://img.shields.io/badge/Northwestern%20University-'26-4E2A84?style=for-the-badge)](https://www.northwestern.edu/)
+
+</div>
+
+> 💡 Passionate about building innovative solutions at the intersection of hardware and AI
+> 
+> 🎓 Currently exploring RISC-V Architecture and Machine Learning Applications
+> 
+> 🤖 Working on robotics and embedded systems projects
+
+</div>
+
+<br clear="all">
 
 
-<h1>Hi, I'm Yafet! <br/><a href="https://github.com/yafethailu">Computer Engineering major</a>, <a href="https://www.linkedin.com/in/yafet-hailu-a8b854205?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBYQF6NiQS2WWXr9xfCPh9w%3D%3D"> Machine Learning and Data Science Minor </a>, <a href="https://www.northwestern.edu/"> Northwestern Univeristy '26</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
