@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile.jpg" width="150" alt="Yafet's profile picture"/>
+</p>
+
 <h1>Hi, I'm Yafet! <br/><a href="https://github.com/yafethailu">Computer Engineering major</a>, <a href="https://www.linkedin.com/in/yafet-hailu-a8b854205?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBYQF6NiQS2WWXr9xfCPh9w%3D%3D"> Machine Learning and Data Science Minor </a>, <a href="https://www.northwestern.edu/"> Northwestern Univeristy '26</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -33,6 +37,25 @@
   - Designing and developing an automated lacrosse goalkeeper for the women’s lacrosse team to enhance practice sessions
   - Leveraging computer vision for real-time ball tracking and programming the microcontroller to control robotic movements.
   - Python, NVIDIA Jetson, C, C++
+ 
+ <h2>😄Passion projects: </h2>
+
+- <b>Children's Book on MOSFETs<b>
+
+  - [Milo's MOSFET Adventure](https://github.com/yafethailu/Milo-s-MOSFET-adventures.git)
+  - Wrote a children's book on the concept of MOSFETs.
+  - Made for Children between ages of 6-9.
+  - Book contains handdrawn animations and storyline explaining MOSFETs in a fun and interactive way!
+  - Canva
+ 
+- <b>Children's Book on Machine Learning<b>
+
+  - [Bu and Bo Discover Machine Learning](https://github.com/yafethailu/Book2.git)
+  - Wrote a children's book on the concept of Machine Learning and it's application.
+  - Made for Children between ages of 6-9.
+  - Book contains handdrawn animations and storyline explaining Machine Learning in a fun and interactive way!
+  - Canva
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -52,6 +75,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
