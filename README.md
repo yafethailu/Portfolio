@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile.jpg" alt="Profile Picture" width="280" style="border-radius: 50%; border: 4px solid #0366d6; box-shadow: 0 0 20px rgba(0,0,0,0.1); margin-right: 25px; float: left;"/>
+  <img src="cover.png" alt="Profile Picture" width="280" style="border-radius: 50%; border: 4px solid #0366d6; box-shadow: 0 0 20px rgba(0,0,0,0.1); margin-right: 25px; float: left;"/>
 </div>
 
 <div style="margin-top: 30px;">
