@@ -8,7 +8,7 @@
 
 <div style="font-size: 1.4em;">
 
-[![Computer Engineering](https://img.shields.io/badge/Major-Computer%20Engineering-purple?style=for-the-badge&logo=arduino)](https://github.com/yafethailu)
+[![Computer Engineering](https://img.shields.io/badge/Major-Computer%20Engineering-purple?style=for-the-badge&logo=arduino)](https://github.com/yafethailu/Resume.git)
 [![ML & Data Science](https://img.shields.io/badge/Minor-ML%20&%20Data%20Science-blue?style=for-the-badge&logo=python)](https://www.linkedin.com/in/yafet-hailu-a8b854205)
 [![Northwestern](https://img.shields.io/badge/Northwestern%20University-'26-4E2A84?style=for-the-badge)](https://www.northwestern.edu/)
 
@@ -77,7 +77,6 @@
   - Made for Children between ages of 6-9.
   - Book contains handdrawn animations and storyline explaining Machine Learning in a fun and interactive way!
   - Canva
-
 
 <h2> 🤳 Connect with me:</h2>
 
