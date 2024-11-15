@@ -14,9 +14,9 @@
 
 </div>
 
-> 💡 Passionate about building innovative solutions at the intersection of hardware and AI
+> 💡 Passionate about building innovative solutions at the intersection of software & hardware
 > 
-> 🎓 Currently exploring RISC-V Architecture and Machine Learning Applications
+> 🎓 Currently exploring RISC-V Architecture and Sustainable Computing
 > 
 > 🤖 Working on robotics and embedded systems projects
 
