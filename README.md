@@ -46,7 +46,7 @@
 
 <h2>📺 Hardware Development projects: </h2>
 
-- <b>RISC-V Architecure CPU ---In progress<b>
+- <b>[RISC-V Architecure CPU](https://github.com/yafethailu/RISC-V-CPU.git) ---In progress<b>
 
   - Designing a fully functional RISC-V CPU using Verilog.
   - Applied principles of RISC architecture, Amdahl’s law, and implemented a 32-bit execution unit that handles Arithmetic and Logic operations
