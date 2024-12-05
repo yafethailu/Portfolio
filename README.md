@@ -16,7 +16,7 @@
 
 > 💡 Passionate about building innovative solutions at the intersection of software & hardware
 > 
-> 🎓 Currently exploring RISC-V Architecture and Sustainable Computing
+> 🎓 Currently exploring System Software and Computer Architecture
 > 
 > 🤖 Working on robotics and embedded systems projects
 
