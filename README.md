@@ -53,7 +53,7 @@
   - Working on implementing the core architecure now
   -  Verilog, RISC-V Assembly, C, C++
  
-- <b>Lacrosse Robot Goalkeeper ---In progress<b>
+- <b>[Lacrosse Robot Goalkeeper](https://github.com/yafethailu/NUROBOTICS-LAX-24.git) ---In progress<b>
 
   - Northwestern Creative Engineering and Robotic Arts Studio
   - Designing and developing an automated lacrosse goalkeeper for the women’s lacrosse team to enhance practice sessions
