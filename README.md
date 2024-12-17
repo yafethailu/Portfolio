@@ -46,7 +46,7 @@
 
 <h2>📺 Hardware Development projects: </h2>
 
-- <b>[RISC-V Architecure CPU](https://github.com/yafethailu/RISC-V-CPU.git) ---In progress<b>
+- <b>[Pipelined RISC-V CPU](https://github.com/yafethailu/RISC-V-CPU.git)<b>
 
   - Designing a fully functional RISC-V CPU using Verilog.
   - Applied principles of RISC architecture, Amdahl’s law, and implemented a 32-bit execution unit that handles Arithmetic and Logic operations
@@ -59,6 +59,14 @@
   - Designing and developing an automated lacrosse goalkeeper for the women’s lacrosse team to enhance practice sessions
   - Leveraging computer vision for real-time ball tracking and programming the microcontroller to control robotic movements.
   - Python, NVIDIA Jetson, C, C++
+ 
+- <b>[Weight Wizard](https://github.com/yafethailu/WeightWizard.git)<b>
+
+  - Clients: Shirley Ryan AbilityLab
+  - Prototyped a smart weight scale with wireless display and a vibration feedback mechanism to assist patients with
+    lower extremity injuries during physiotherapy sessions
+  - Integrated weight-bearing calculation functionality to provide real-time data for rehabilitation tracking
+  - ESP32, Wireless Display, C, C++
  
  <h2>😄Passion projects: </h2>
 
