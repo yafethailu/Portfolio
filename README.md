@@ -60,6 +60,13 @@
   - Leveraging computer vision for real-time ball tracking and programming the microcontroller to control robotic movements.
   - Python, NVIDIA Jetson, C, C++
  
+- <b>[Audio Spectrum Visualizer](https://github.com/yafethailu/audiospectrum.git)<b>
+
+  - Employed ESP32 microcontroller to construct a 64 x 64 LED matrix with audio spectrum visualization on a protoboard
+  - Wrote 300+ lines of code in Arduino
+  - Design includes nMOSes and RC filters using Fourier transform to continously change the spectrum according to the sound pitch
+  - ESP32, Breadboarding, Arduino
+ 
 - <b>[Weight Wizard](https://github.com/yafethailu/WeightWizard.git)<b>
 
   - Clients: Shirley Ryan AbilityLab
