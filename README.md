@@ -62,10 +62,10 @@
  
 - <b>[Audio Spectrum Visualizer](https://github.com/yafethailu/audiospectrum.git)<b>
 
-  - Employed ESP32 microcontroller to construct a 64 x 64 LED matrix with audio spectrum visualization on a protoboard
+  - Employed an Analaog microphone and ESP32 microcontroller to construct a 8 x 8 LED matrix with audio spectrum visualization on a protoboard
   - Wrote 300+ lines of code in Arduino
-  - Design includes nMOSes and RC filters using Fourier transform to continously change the spectrum according to the sound pitch
-  - ESP32, Breadboarding, Arduino
+  - Design includes MOSFETs and RC filters using Fast Fourier Transform (FFT) to continously change the spectrum according to the sound pitch
+  - ESP32, Analog Microphone, Potentiometer, Breadboarding, Arduino
  
 - <b>[Weight Wizard](https://github.com/yafethailu/WeightWizard.git)<b>
 
