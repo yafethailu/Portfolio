@@ -48,9 +48,9 @@
 
 - <b>[Pipelined RISC-V CPU](https://github.com/yafethailu/RISC-V-CPU.git)<b>
 
-  - Designing a fully functional RISC-V CPU using Verilog.
-  - Applied principles of RISC architecture, Amdahl’s law, and implemented a 32-bit execution unit that handles Arithmetic and Logic operations
-  - Working on implementing the core architecure now
+  - Designed a fully functional RISC-V CPU using Verilog.
+  - Applied principles of RISC architecture, pipelining, and implemented a 32-bit execution unit that handles Arithmetic and Logic operations
+  - Simulated using gtkwave and performed STA
   -  Verilog, RISC-V Assembly, C, C++
  
 - <b>[Lacrosse Robot Goalkeeper](https://github.com/yafethailu/NUROBOTICS-LAX-24.git) ---In progress<b>
