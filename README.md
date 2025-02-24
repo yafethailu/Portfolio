@@ -39,10 +39,16 @@
   - [Code files](https://github.com/yafethailu/EMSAsite.git)
   - [Video demo of features](https://youtu.be/SJZf9dYf8ag)
   - HTML, CSS, JavScript, React
-- <b>OpenStreetMaps Software Design</b>
+- <b>University Campus Navigator</b>
   - [ReadMe](https://github.com/yafethailu/OpenStreetMaps.git)
   - [Code files](https://github.com/yafethailu/OpenStreetMaps.git)
-  - C, C++, API Integration
+  - C++, API Integration, JSON, XML
+- <b>nuPython python - C parser</b>
+  - Developed a Python-like language parser in C, creating an execution environment using token-based processing.
+  - Implemented core features such as computation, printing, relational operators, loops, and string concatenation.
+  - Conducted rigorous testing and validation using GCC and Google Test to ensure robustness.
+  - [Code files](https://github.com/yafethailu/nuPython.git)
+  - C, API Integration, JSON, XML 
 
 <h2>📺 Hardware Development projects: </h2>
 
