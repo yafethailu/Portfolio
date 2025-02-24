@@ -40,6 +40,10 @@
   - [Video demo of features](https://youtu.be/SJZf9dYf8ag)
   - HTML, CSS, JavScript, React
 - <b>University Campus Navigator</b>
+  - a C++ application to parse and visualize campus map data, displaying building locations and nearby bus stops using
+    XML and JSON.
+  - Integrated the Chicago Transit Authority’s Bus Tracker API with cURL to fetch real-time bus arrival predictions.
+  - Designed efficient geospatial algorithms to compute and display the closest bus stops to campus buildings.
   - [ReadMe](https://github.com/yafethailu/OpenStreetMaps.git)
   - [Code files](https://github.com/yafethailu/OpenStreetMaps.git)
   - C++, API Integration, JSON, XML
