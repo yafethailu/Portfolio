@@ -63,6 +63,13 @@
   - Simulated using gtkwave and performed STA
   -  Verilog, RISC-V Assembly, C, C++
  
+- <b>[SRAM Bank]<b>
+
+  - Developed a 4x4 SRAM bank featuring 6T SRAM cells, a clocked sense amplifier, bitline conditioning, and write circuitry.
+  - Schematic and layout completed in Cadence Virtuoso, with the design passing DRC and LVS checks 100% successfully.
+  - My layout optimization placed the design in the top 10% of the class for area efficiency, with verifications done through waveforms
+  - Cadence Virtuoso
+ 
 - <b>[Lacrosse Robot Goalkeeper](https://github.com/yafethailu/NUROBOTICS-LAX-24.git) ---In progress<b>
 
   - Northwestern Creative Engineering and Robotic Arts Studio
