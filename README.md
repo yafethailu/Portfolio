@@ -30,23 +30,23 @@
 
 - <b>Tom & Jerry Cloud Chase Game<b>
 
-  - Written over 2000 lines of code in ARM assembly to design an interactive tom and jerry chasing game
-  - [ARM assmebly code (.s file)](https://docs.google.com/document/d/1BqEZzUOgDm5AOslF-2MKjSonROjrSVq2eyBfkXSExuA/edit?usp=sharing)
-  - [Video demo](https://youtu.be/KjnQi0JLn8s?si=26kwtI3CYzWU6DZs)
-  - C, ARM assembly, Pseudocode
+  - Wrote 2000+ lines of code in ARMv7 assembly to design an interactive tom and jerry chasing game
+  - Implemented memory mapped I/O and double buffering to enable smooth sprite animation and eliminate screen flickering
+  - Manually initialized memory structures, including custom sprite arrays and handwritten pixel maps, for graphics rendering
+  - [ARM assmebly code (.s file)](https://github.com/yafethailu/T-J-CloudChase/blob/main/gameplay.s)
+  - C, ARM assembly
 - <b>Website for the Ethiopian Medical Students Assosiation</b>
-  - [EMSA](https://yafethailu.github.io/EMSAsite/)
+  - [EMSA](https://www.emsastpaul.com/)
   - [Code files](https://github.com/yafethailu/EMSAsite.git)
-  - [Video demo of features](https://youtu.be/SJZf9dYf8ag)
   - HTML, CSS, JavScript, React
 - <b>University Campus Navigator</b>
-  - a C++ application to parse and visualize campus map data, displaying building locations and nearby bus stops using
-    XML and JSON.
-  - Integrated the Chicago Transit Authority’s Bus Tracker API with cURL to fetch real-time bus arrival predictions.
-  - Designed efficient geospatial algorithms to compute and display the closest bus stops to campus buildings.
+  - Built a C++ application to visualize Northwestern campus buildings and locate nearby CTA bus stops using
+XML-based map data
+  - Implemented a threaded binary search tree for efficient storage and lookup of building information
+  - Integrated CTA Bus Tracker API with cURL to display real-time arrival predictions for northbound and southbound buses
   - [ReadMe](https://github.com/yafethailu/OpenStreetMaps.git)
   - [Code files](https://github.com/yafethailu/OpenStreetMaps.git)
-  - C++, API Integration, JSON, XML
+  - API Integration, C++, JSON, XML, API, BST 
 - <b>nuPython python - C parser</b>
   - Developed a Python-like language parser in C, creating an execution environment using token-based processing.
   - Implemented core features such as computation, printing, relational operators, loops, and string concatenation.
@@ -58,31 +58,30 @@
 
 - <b>[Pipelined RISC-V CPU](https://github.com/yafethailu/RISC-V-CPU.git)<b>
 
-  - Designed a fully functional RISC-V CPU using Verilog.
-  - Applied principles of RISC architecture, pipelining, and implemented a 32-bit execution unit that handles Arithmetic and Logic operations
+  - Designed a fully functional 5-stage RISC-V CPU using Verilog with pipelining and a 32-bit execution unit.
+  - Synthesized the processor in Cadence Genus with an estimated area of 24,300 µm² and target frequency of 725 MH
   - Simulated using gtkwave and performed STA
-  -  Verilog, RISC-V Assembly, C, C++
+  - Verilog, RISC-V Assembly, C, C++
  
-- <b>[Lacrosse Robot Goalkeeper](https://github.com/yafethailu/NUROBOTICS-LAX-24.git) ---In progress<b>
+- <b>[Lacrosse Robot Goalkeeper](https://github.com/yafethailu/NUROBOTICS-LAX-24.git) <b>
 
   - Northwestern Creative Engineering and Robotic Arts Studio
-  - Designing and developing an automated lacrosse goalkeeper for the women’s lacrosse team to enhance practice sessions
+  - Developed an automated lacrosse goalkeeper for the women’s lacrosse team to enhance practice sessions
   - Leveraging computer vision for real-time ball tracking and programming the microcontroller to control robotic movements.
   - Python, NVIDIA Jetson, C, C++
  
 - <b>[Audio Spectrum Visualizer](https://github.com/yafethailu/audiospectrum.git)<b>
 
-  - Employed an Analaog microphone and ESP32 microcontroller to construct a 8 x 8 LED matrix with audio spectrum visualization on a protoboard
-  - Wrote 300+ lines of code in Arduino
-  - Design includes MOSFETs and RC filters using Fast Fourier Transform (FFT) to continously change the spectrum according to the sound pitch
+  - Employed an 64x32 LED matrix audio spectrum visualizer using an analog microphone and microcontroller.
+  - Wrote 200+ lines of Arduino code, integrating MOSFETs and RC filters for precise audio response.
+  - Implemented Fast Fourier Transform (FFT) to dynamically adjust spectrum display based on sound pitch.
   - ESP32, Analog Microphone, Potentiometer, Breadboarding, Arduino
  
 - <b>[Weight Wizard](https://github.com/yafethailu/WeightWizard.git)<b>
 
   - Clients: Shirley Ryan AbilityLab
-  - Prototyped a smart weight scale with wireless display and a vibration feedback mechanism to assist patients with
-    lower extremity injuries during physiotherapy sessions
-  - Integrated weight-bearing calculation functionality to provide real-time data for rehabilitation tracking
+  - Prototyped a smart weight scale with wireless display and vibration feedback for patients with lower extremity injuries during physiotherapy.
+  - Integrated weight-bearing calculation functionality to provide real-time data for rehabilitation tracking.
   - ESP32, Wireless Display, C, C++
  
  <h2>😄Passion projects: </h2>
